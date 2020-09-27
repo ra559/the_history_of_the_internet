@@ -70,7 +70,8 @@
       <updated>1600894243041</updated>
       <workItem from="1600894244129" duration="2677000" />
       <workItem from="1601130113163" duration="1611000" />
-      <workItem from="1601143353273" duration="14389000" />
+      <workItem from="1601143353273" duration="14436000" />
+      <workItem from="1601178703817" duration="3306000" />
     </task>
     <servers />
   </component>
@@ -87,8 +88,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2663" y="312" width="426" height="492" key="FileChooserDialogImpl" timestamp="1601181885158">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2663" y="312" width="426" height="492" key="FileChooserDialogImpl/1920.0.1920.1080/3840.0.1920.1080/0.28.1920.1052@1920.0.1920.1080" timestamp="1601181885158" />
     <state x="2384" y="189" width="992" height="738" key="SettingsEditor" timestamp="1601178515605">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
@@ -99,10 +105,11 @@
     </state>
     <state x="574" y="237" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.28.1920.1052/1920.0.1920.1080/0.28.1920.1052@0.28.1920.1052" timestamp="1601164618951" />
     <state x="2494" y="215" width="764" height="687" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.0.1920.1080/0.28.1920.1052/3840.0.1920.1080@1920.0.1920.1080" timestamp="1600896171543" />
-    <state x="2543" y="252" key="run.anything.popup" timestamp="1601177948951">
+    <state x="2543" y="252" key="run.anything.popup" timestamp="1601181098206">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2543" y="252" key="run.anything.popup/0.28.1920.1052/1920.0.1920.1080/0.28.1920.1052@1920.0.1920.1080" timestamp="1601177948951" />
+    <state x="2543" y="252" key="run.anything.popup/1920.0.1920.1080/3840.0.1920.1080/0.28.1920.1052@1920.0.1920.1080" timestamp="1601181098206" />
     <state x="2543" y="260" width="672" height="678" key="search.everywhere.popup" timestamp="1600895521127">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
