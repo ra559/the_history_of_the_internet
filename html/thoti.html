@@ -15,7 +15,7 @@
             h1{
                 font-family: 'Satisfy', cursive;
                 font-size: 5em;
-            }
+           }
             p{
                 font-family: 'Roboto', sans-serif;
                 line-height: 2em;
@@ -28,8 +28,8 @@
     </head>
 
     <body>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand" href="#">Navbar</a>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top bg-transparent">
+        <a class="navbar-brand" href="#"> <img src="../assets/teamlogo_small.png" alt="" class="img"></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -37,17 +37,20 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item active">
-                    <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                    <a class="nav-link" href="#">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Link</a>
+                    <a class="nav-link" href="#">Team</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">About</a>
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Topics
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="#">The invention of the internet</a>
+                        <a class="dropdown-item" href="../html/thoti.html">The invention of the internet</a>
                         <a class="dropdown-item" href="#">The browser wars</a>
                         <a class="dropdown-item" href="#">The Dot Com Bubble</a>
                         <a class="dropdown-item" href="#">The People</a>
@@ -55,15 +58,11 @@
                     </div>
                 </li>
             </ul>
-            <form class="form-inline my-2 my-lg-0">
-                <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-                <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-            </form>
         </div>
     </nav>
 
+    <h1 class="page-header text-center text-dark jumbotron" >The Invention Of The Internet</h1>
         <div class="container">
-            <h1 class="page-header text-center text-dark jumbotron" >The Invention Of The Internet</h1>
             <p class="lead text-center">The internet is humankind’s greatest invention. It connects the world in seconds and is the number one technology that keeps the economy alive. How did this amazing invention happen? Who was involved? Which roadblocks did these people encounter? This page is an attempt to answer all these questions.</p>
             <figure class="text-center">
                 <img class="border rounded-left" src="../assets/the-internet.png" alt="the internet" /><figcaption>the internet</figcaption>
@@ -140,8 +139,34 @@
 
         </div>
 
-        <footer>
+        <footer class="jumbotron">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm">
+                        <img src="../assets/teamlogo.png" alt="team logo">
+                    </div>
 
+                    <div class="col-sm">
+                        <h4>Quick Links</h4>
+                        <ul>
+                            <li>The invention of the internet</li>
+                            <li>The Browser wars</li>
+                            <li>The Internet Search</li>
+                            <li>The Dot Com Bubble</li>
+                            <li>The People</li>
+                            <li>The History of the internet website</li>
+                            <li>Github Robert</li>
+                            <li>Github Lennart</li>
+                        </ul>
+                    </div>
+
+                    <div class="col-sm">
+                        <h4>Contact us</h4>
+                        <img src="../assets/mail.svg"> robertalberto350@gmail.com <br>
+                        <img src="../assets/mail.svg">
+                    </div>
+                </div>
+            </div>
         </footer>
         <!-- Optional JavaScript -->
         <!-- jQuery first, then Popper.js, then Bootstrap JS -->
