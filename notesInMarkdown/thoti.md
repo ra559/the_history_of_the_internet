@@ -1,6 +1,7 @@
 # The history of the internet
 ## Intro
 ![the internet](../assets/the-internet.png)
+
 The internet is humankind's greatest invention. It connects the world in seconds and is the number one technology that keeps the economy alive. How did this amazing invention happen? Who was involved? Which roadblocks did these people encounter? This page is an attempt to answer all these questions. 
 
 ## The founding of ARPA
@@ -13,6 +14,7 @@ In the early 1960s, Leonard Kleinrock, who then was a graduate student at MIT,  
 
 ## The need for an indestructible network
 ![indestructible network](../assets/network-big.png)
+
 In the early 60s, it was not the discovery of new technology that motivated the US for developing a network of computers. But, the fear of a nuclear Russian attack in the homeland. Back then, all military communication happened via the phone line, therefore, a nuclear attack not only would destroy the cities but it would eliminate the possibility for retaliation. To theorize the possibility of building an indestructible communication network, the engineer Paul Baran was hired. The first concept that Paul Baran and his team ambitioned was creating a fishnet-like network, where if a node is incapacitated another data path could be easily built. The team theorized the idea of Hot potato routing in which data is first broken down in small equal-sized pieces called packets. The packets would then find their path to the network similar to how rats find a way out of a maze. In this system, only part of the network needs to be operational for the data to arrive at its destination. This is possible because every node keeps sending copies of the packet until such a packet arrives at its destination. 
 
 ## Multiple machines 1 terminal
@@ -21,6 +23,7 @@ Although enough theory already existed for creating a network of computers, it w
 
 ## The birth of the ARPANET
 ![ibm logo](../assets/ibm.png)
+
 Larry Roberts first conceptualized chaining the computers to each other but this design meant that every computer needed to know how to connect each computer to each other and back then there was no TCP-IP standard. The solution was to create a mini-computer that the main computer connects to and then the mini-computer connects all the computers (the way a router works). The next roadblock that Roberts and Taylor encountered was who was going to build such a system? Telecommunications companies were not interested since computer networking did not represent revenue for them or thought that there was no way to build the system in the first place. Roberts bit the project of building these special new computers, called Interface message processors (IMPS), to IBM and AT&T but they both refused the offer.  Bolt Beranek and Newman (BBN) was the company that took the project of building the IMPs that would perform the packet switching. Packet switching consisted of splitting the data into small pieces sent them to the appropriate IMP and have that IMP put the data back together to deliver it to the recipient computer. The goal was to place 4 IMPs to connect the following computers:
 * SIGMA 7 at The University of California
 * SDS 940 at The Standford Research Institute
@@ -31,18 +34,22 @@ Building the hardware was not the only problem. Hardware needs software and the 
 
 ## You got mail!
 ![at sign email](../assets/atsign.png)
+
 At first, the only thing the ARPANET could do was share files. But everything changed when email was born. The man responsible for giving birth to the E-Mail application was Raymond Tomlinson who at the time had already written several programs to send files in the ARPANET.  Tomlinson is known to be the first person to send an email in the ARPANET using the @ sign in 1971. In 1972, the ARPANET was demonstrated in Washington DC by Robert Metcalfe who contacted about 19 people who were using ARPANET in different ways.   
 
 ## And then there were … protocols.
 ![network room](../assets/network.png)
+
 Soon after, there was a rise in the use of ARPANET networks everywhere but with the growth of the ARPANET came the problem of standardization. Computers need a way to understand each other regardless of the operating system. This way of communication is a language like the one we use to communicate. Like human language, computer protocols are nothing but a set of rules that enabled computers to understand each other. The set of protocols used in this case are the TCP/IP protocol stack. The TCP/IP protocol stack was introduced in 1973 by Vint Cerf and Bob Kahn. The goal was to link networks (LANs and WANs) with each other. Today, all devices that connect to the internet must comply with the TCP/IP protocol stack. Vint Cerf and Bob Kahn introduced the concept of gateways where packets can leave and enter different networks. There were other protocol stacks proposed but TCP/IP ultimately won the internet protocol war. 
 
 ## Politics! There has to be politics here too!
 ![congrees](../assets/congress.png)
+
 The internet as we know it is free in the sense that no one owns it. What telecommunications companies offer you is the availability of becoming one of their many computers in their network. The internet is free (as in freedom, not free beer) because on June 9th, 1992 Congress passed a bill that took the internet out the hands of the government and passed to the public so that anyone can use it for whatever reason they wish. 
 
 ## Using the internet was hard!
 ![old computer image](../assets/old_computer.png)
+
 By the 1980s, the internet was widely available to those who knew how to use it. Looking for information was hard because there was no Google or anything that resembles it. This problem was solved by Tim Berners Lee who invented the World Wide Web. WWW made the following threads of information easy by following links. In 1992 there were only 50 pages available but in 1993 the web browser was invented by  Marc Andreessen at the University of Illinois. Mosaic, later known as Netscape was the first graphical user interface that made using the internet simple and user friendly. No longer people needed to be computer wizards to search the web.
 
 
