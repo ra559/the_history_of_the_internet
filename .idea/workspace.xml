@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="735eed4e-7662-4339-81fd-8a840d144fbb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/thoti.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/thoti.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,15 +40,19 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
+    <property name="settings.editor.selected.configurable" value="liveEdit" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/the_history_of_the_internet/ignorefolder/bootstrap_cheatsheet/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="thoti.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/the_history_of_the_internet/html/thoti.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.thoti.html" />
       </list>
     </recent_temporary>
@@ -65,7 +70,7 @@
       <updated>1600894243041</updated>
       <workItem from="1600894244129" duration="2677000" />
       <workItem from="1601130113163" duration="1611000" />
-      <workItem from="1601143353273" duration="12784000" />
+      <workItem from="1601143353273" duration="14389000" />
     </task>
     <servers />
   </component>
@@ -84,15 +89,20 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="2384" y="189" width="992" height="738" key="SettingsEditor" timestamp="1600894973495">
+    <state x="2384" y="189" width="992" height="738" key="SettingsEditor" timestamp="1601178515605">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
+    <state x="2384" y="189" key="SettingsEditor/0.28.1920.1052/1920.0.1920.1080/0.28.1920.1052@1920.0.1920.1080" timestamp="1601178515605" />
     <state x="2384" y="189" width="992" height="738" key="SettingsEditor/1920.0.1920.1080/0.28.1920.1052/3840.0.1920.1080@1920.0.1920.1080" timestamp="1600894973495" />
     <state x="574" y="237" width="764" height="687" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1601164618951">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
     <state x="574" y="237" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.28.1920.1052/1920.0.1920.1080/0.28.1920.1052@0.28.1920.1052" timestamp="1601164618951" />
     <state x="2494" y="215" width="764" height="687" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.0.1920.1080/0.28.1920.1052/3840.0.1920.1080@1920.0.1920.1080" timestamp="1600896171543" />
+    <state x="2543" y="252" key="run.anything.popup" timestamp="1601177948951">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2543" y="252" key="run.anything.popup/0.28.1920.1052/1920.0.1920.1080/0.28.1920.1052@1920.0.1920.1080" timestamp="1601177948951" />
     <state x="2543" y="260" width="672" height="678" key="search.everywhere.popup" timestamp="1600895521127">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
