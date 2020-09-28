@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="735eed4e-7662-4339-81fd-8a840d144fbb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/aboutUs.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/history.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/notesInMarkdown/DotComBubble.md" beforeDir="false" afterPath="$PROJECT_DIR$/notesInMarkdown/DotComBubble.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +62,7 @@
       <updated>1600894243041</updated>
       <workItem from="1600894244129" duration="2337000" />
       <workItem from="1600899476845" duration="1232000" />
-      <workItem from="1601137673856" duration="27325000" />
+      <workItem from="1601137673856" duration="27847000" />
     </task>
     <task id="LOCAL-00001" summary="Feature: DotCom bubble Notes">
       <created>1601250782453</created>
@@ -83,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601259124655</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Feature: Final Notes for Dot Com Bubble">
+      <created>1601323289992</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601323289992</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,7 +94,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Feature: DotCom bubble Notes" />
     <MESSAGE value="Feature: included more notes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature: included more notes" />
+    <MESSAGE value="Feature: Final Notes for Dot Com Bubble" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: Final Notes for Dot Com Bubble" />
   </component>
   <component name="WindowStateProjectService">
     <state x="744" y="367" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601245911546">
@@ -103,10 +106,10 @@
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
     <state x="1658" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1080@0.0.2560.1080" timestamp="1601263381106" />
-    <state x="1443" y="29" key="CommitChangelistDialog2" timestamp="1601259124525">
+    <state x="1443" y="29" key="CommitChangelistDialog2" timestamp="1601323289847">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state x="1443" y="29" key="CommitChangelistDialog2/0.0.2560.1080@0.0.2560.1080" timestamp="1601259124525" />
+    <state x="1443" y="29" key="CommitChangelistDialog2/0.0.2560.1080@0.0.2560.1080" timestamp="1601323289847" />
     <state x="512" y="97" key="MergeDialog" timestamp="1601137755612">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
@@ -115,10 +118,10 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2384" y="189" width="992" height="738" key="SettingsEditor/1920.0.1920.1080/0.28.1920.1052/3840.0.1920.1080@1920.0.1920.1080" timestamp="1600894973495" />
-    <state x="1207" y="276" key="Vcs.Push.Dialog.v2" timestamp="1601259131487">
+    <state x="1207" y="276" key="Vcs.Push.Dialog.v2" timestamp="1601323291320">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state x="1207" y="276" key="Vcs.Push.Dialog.v2/0.0.2560.1080@0.0.2560.1080" timestamp="1601259131487" />
+    <state x="1207" y="276" key="Vcs.Push.Dialog.v2/0.0.2560.1080@0.0.2560.1080" timestamp="1601323291320" />
     <state x="2494" y="215" width="764" height="687" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1600896171543">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
@@ -131,10 +134,10 @@
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
     <state x="435" y="161" width="993" height="901" key="dock-window-1/0.0.2560.1080@0.0.2560.1080" timestamp="1601264326798" />
-    <state x="289" y="372" width="993" height="901" key="dock-window-2" timestamp="1601323270097">
+    <state x="662" y="26" width="993" height="901" key="dock-window-2" timestamp="1601323792605">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state x="289" y="372" width="993" height="901" key="dock-window-2/0.0.2560.1080@0.0.2560.1080" timestamp="1601323270097" />
+    <state x="662" y="26" width="993" height="901" key="dock-window-2/0.0.2560.1080@0.0.2560.1080" timestamp="1601323792605" />
     <state x="1565" y="178" key="git4idea.branch.GitSmartOperationDialog" timestamp="1601137744530">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>

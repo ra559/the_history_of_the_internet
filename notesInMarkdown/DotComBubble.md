@@ -17,7 +17,7 @@ Once Moore made the declaration of his law, it became the standard for microproc
 # Robert Metcalf's Law 
 
 What also paired alongside the technological growth of the web was a rule by Robert Metcalfe’s. The inventor of the ethernet. Metcalf’s laws states that every new node (computer) added to a network does not increase the value of a network by plus one. The curve within the value of the network is increasingly higher. Henceforth, the Moore’s law of connectivity. 
-The more nodes present the more increasing of pairs of communication present. •	Considering the growth of the internet Metcalf law shows that the internet gathers momentum as it functions. Meaning, that as the number of user increases the usefulness of the network increases and it becomes compelling over time for new users to join the internet. 
+The more nodes present the more increasing of pairs of communication present. Considering the growth of the internet Metcalf law shows that the internet gathers momentum as it functions. Meaning, that as the number of user increases the usefulness of the network increases and it becomes compelling over time for new users to join the internet. 
 
 ## The Bases On Which the Internet Operates 
 By the mid 90s Moore’s law and Metcalf's law worked hand in hand to fuel a rapid growth. Along came faster, cheaper and more powerful computers being connected together at a high rate. Making the internet exponentially more useful and more popular.
