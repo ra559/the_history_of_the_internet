@@ -1,7 +1,4 @@
-![internet](pexels-photo-159888.jpeg)
 # The True Story of the Internet - Dot Com Bubble 
-
-![1990](pexels-pixabay-261662.jpg)
 
 Spanning from 1995 till the early 2000s, the dot-com bubble also known as the internet bubble; was a period of massive growth in the use and the adoption of the internet.
 
@@ -31,5 +28,15 @@ Ecommerce, also known as electronic commerce or internet commerce, refers to the
 ## The Growth of Ecommerce Technology 
 It was during the year 1995 where online marketplaces such as Amazon and eBay began to take their respective strides within commerce. 
 At the time, Amazon was highly known for its book selling. While eBay found value its bidding system for those looking to collect and trade items. 
-Amazon and eBay are prolific companies that found increasing growth and highly influenced the growth of Ecommerce. Those on the stock market were totally clueless as to how the internet worked. But, those on the stock market found ways in which it could help them 
-generate more money. It was also this year during summer 95' Netscape introduced its initial public offering. A year later arrived the IPO's of search engine companies. 
+Amazon and eBay are prolific companies that found increasing growth and highly influenced the growth of Ecommerce. Those on the stock market were totally clueless as to how the internet worked.
+But, those on the stock market found ways in which it could help them generate more money. It was also this year during summer 95' Netscape introduced its initial public offering. A year later arrived the IPO's of search engine companies such as Yahoo and Excite. 
+A year later after that, Amazon takes the next step in pushing the boom of the internet into the state of bubble hood.
+
+## The Bubble 
+
+With the rapid growth of the internet and IPO hitting the scene. Investors on the stock market were looking to find the best way to a part of the increasing growth of stock along with the internet. Within the rise of the internet too many companies were beginning to do much building, spending, and too many companies were doing the same thing as each other without the consequences in mind. 
+While this was happening, Amazon and eBay withstood the pressures happening with the dot com era. Each company's market value began to increase rapidly. Chairman of the federal reserve bank, Alan Greenspan believed that technology was creating a new economy. After seeing an overwhelming increase within the stock market due to the 
+rise of ecommerce, Greenspan believed that it was time for things to slow down a bit. Starting in the early 2000s, the FED began to raise interest rates higher anyone has seen before. This showed that Greenspan was beginning to work on putting the bubble to an end. 
+ 
+ ### Aftermath of the bubble 
+ After funding was not, at this point accessible, the operational mindset of heads and speculators totally changed. A website organization's life expectancy was estimated by its consumption rate, the rate at which it spent its current capital. Many website organizations ran out of capital and experienced liquidation. Supporting ventures, for example, promoting and transportation, downsized their activities as interest for administrations fell. Be that as it may, numerous organizations had the option to bear the accident; 48% of website organizations made due through 2004, though at lower valuations.
