@@ -1,11 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="735eed4e-7662-4339-81fd-8a840d144fbb" name="Default Changelist" comment="Feature:  Links&#10;Task: Updated Links">
+    <list default="true" id="735eed4e-7662-4339-81fd-8a840d144fbb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/thoti.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/thoti.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notesInMarkdown/DotComBubble.md" beforeDir="false" afterPath="$PROJECT_DIR$/notesInMarkdown/DotComBubble.md" afterDir="false" />
+
+      <change afterPath="$PROJECT_DIR$/html/img/Logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/img/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/img/christopher-gower-vjMgqUkS8q8-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/img/thomas-jensen-h3vT1Kp0FxA-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/img/tim-bennett-OwvRB-M3GwE-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notesInMarkdown/thePeople.md" beforeDir="false" afterPath="$PROJECT_DIR$/notesInMarkdown/thePeople.md" afterDir="false" />
+
+    </list>
+
+    <list default="true" id="735eed4e-7662-4339-81fd-8a840d144fbb" name="Default Changelist" comment="" />
+
+    <list default="true" id="735eed4e-7662-4339-81fd-8a840d144fbb" name="Default Changelist" comment="" />
+
+
+    <list default="true" id="735eed4e-7662-4339-81fd-8a840d144fbb" name="Default Changelist" comment="">
+
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/style.css" afterDir="false" />
     </list>
+
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,9 +75,15 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/html" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
+    <property name="settings.editor.selected.configurable" value="liveEdit" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/the_history_of_the_internet/ignorefolder/bootstrap_cheatsheet/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="thoti.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/the_history_of_the_internet/html/thoti.html" useBuiltInWebServerPort="true">
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/html/img" />
@@ -49,6 +99,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.thoti.html" />
         <item itemvalue="JavaScript Debug.home.html" />
       </list>
     </recent_temporary>
@@ -64,6 +116,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600894243041</updated>
+
+      <workItem from="1600894244129" duration="2677000" />
+      <workItem from="1601130113163" duration="1611000" />
+      <workItem from="1601143353273" duration="14436000" />
+      <workItem from="1601178703817" duration="7722000" />
+
       <workItem from="1600894244129" duration="2337000" />
       <workItem from="1600899476845" duration="1232000" />
       <workItem from="1601137673856" duration="52242000" />
@@ -81,6 +139,7 @@
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
       <updated>1601259124655</updated>
+
     </task>
     <task id="LOCAL-00003" summary="Feature: Final Notes for Dot Com Bubble">
       <created>1601323289992</created>
@@ -144,6 +203,30 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2673" y="343" width="406" height="430" key="#Web_Browsers" timestamp="1601188861059">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2673" y="343" width="406" height="430" key="#Web_Browsers/1920.0.1920.1080/3840.0.1920.1080/0.28.1920.1052@1920.0.1920.1080" timestamp="1601188861059" />
+    <state x="2663" y="312" width="426" height="492" key="FileChooserDialogImpl" timestamp="1601188853145">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2663" y="312" width="426" height="492" key="FileChooserDialogImpl/1920.0.1920.1080/3840.0.1920.1080/0.28.1920.1052@1920.0.1920.1080" timestamp="1601188853145" />
+    <state x="2384" y="189" width="992" height="738" key="SettingsEditor" timestamp="1601178515605">
+
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Feature: DotCom bubble Notes" />
     <MESSAGE value="Feature: included more notes" />
@@ -187,10 +270,33 @@
     </state>
     <state x="1207" y="276" key="Vcs.Push.Dialog.v2/0.0.2560.1080@0.0.2560.1080" timestamp="1601356083858" />
     <state x="2494" y="215" width="764" height="687" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1600896171543">
+
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
+    <state x="2384" y="189" key="SettingsEditor/0.28.1920.1052/1920.0.1920.1080/0.28.1920.1052@1920.0.1920.1080" timestamp="1601178515605" />
+    <state x="2384" y="189" width="992" height="738" key="SettingsEditor/1920.0.1920.1080/0.28.1920.1052/3840.0.1920.1080@1920.0.1920.1080" timestamp="1600894973495" />
+    <state x="574" y="237" width="764" height="687" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1601164618951">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="574" y="237" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.28.1920.1052/1920.0.1920.1080/0.28.1920.1052@0.28.1920.1052" timestamp="1601164618951" />
     <state x="2494" y="215" width="764" height="687" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.0.1920.1080/0.28.1920.1052/3840.0.1920.1080@1920.0.1920.1080" timestamp="1600896171543" />
+
     <state x="451" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601356071438">
+
+    <state x="2543" y="252" key="run.anything.popup" timestamp="1601263306754">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2543" y="252" key="run.anything.popup/1920.0.1920.1080/3840.0.1920.1080/0.28.1920.1052@1920.0.1920.1080" timestamp="1601263306754" />
+
+    <state x="2543" y="252" key="run.anything.popup" timestamp="1601181098206">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2543" y="252" key="run.anything.popup/0.28.1920.1052/1920.0.1920.1080/0.28.1920.1052@1920.0.1920.1080" timestamp="1601177948951" />
+    <state x="2543" y="252" key="run.anything.popup/1920.0.1920.1080/3840.0.1920.1080/0.28.1920.1052@1920.0.1920.1080" timestamp="1601181098206" />
+
+
+    <state x="451" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600899994128">
+
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
     <state x="451" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1080@0.0.2560.1080" timestamp="1601356071438" />
@@ -206,8 +312,13 @@
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
     <state x="1565" y="178" key="git4idea.branch.GitSmartOperationDialog/0.0.2560.1080@0.0.2560.1080" timestamp="1601137744530" />
+
+    <state x="2543" y="260" width="672" height="678" key="search.everywhere.popup" timestamp="1600895521127">
+      <screen x="1920" y="0" width="1920" height="1080" />
+
     <state x="831" y="260" width="896" height="678" key="search.everywhere.popup" timestamp="1601352058902">
       <screen x="0" y="0" width="2560" height="1080" />
+
     </state>
     <state x="831" y="260" width="896" height="678" key="search.everywhere.popup/0.0.2560.1080@0.0.2560.1080" timestamp="1601352058902" />
     <state x="2543" y="260" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1080/0.28.1920.1052/3840.0.1920.1080@1920.0.1920.1080" timestamp="1600895521127" />
