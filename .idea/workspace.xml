@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <list default="true" id="735eed4e-7662-4339-81fd-8a840d144fbb" name="Default Changelist" comment="">
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -47,6 +48,9 @@
 =======
     <list default="true" id="735eed4e-7662-4339-81fd-8a840d144fbb" name="Default Changelist" comment="" />
 >>>>>>> b30f8a0e9a78414e047e5aa8eaa11ba92a893ed2
+=======
+    <list default="true" id="735eed4e-7662-4339-81fd-8a840d144fbb" name="Default Changelist" comment="" />
+>>>>>>> origin/peopleNotes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +59,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="DotCombubble" />
+        <entry key="$PROJECT_DIR$" value="thePeople" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -81,12 +85,12 @@
     <configuration name="thoti.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/the_history_of_the_internet/html/thoti.html" useBuiltInWebServerPort="true">
 =======
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/html" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/html/img" />
       <recent name="$PROJECT_DIR$/notesInMarkdown" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/html" />
     </key>
   </component>
   <component name="RunManager">
@@ -169,7 +173,21 @@
       <option name="project" value="LOCAL" />
       <updated>1601345744210</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Feature:  Notes&#10;Task: Final Notes">
+      <created>1601352828847</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1601352828847</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Feature:  Notes&#10;Task: Final Notes">
+      <created>1601353199695</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1601353199695</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,10 +234,14 @@
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
     <state x="1658" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1080@0.0.2560.1080" timestamp="1601349884008" />
-    <state x="1443" y="29" key="CommitChangelistDialog2" timestamp="1601345743992">
+    <state x="1443" y="29" key="CommitChangelistDialog2" timestamp="1601353199536">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state x="1443" y="29" key="CommitChangelistDialog2/0.0.2560.1080@0.0.2560.1080" timestamp="1601345743991" />
+    <state x="1443" y="29" key="CommitChangelistDialog2/0.0.2560.1080@0.0.2560.1080" timestamp="1601353199536" />
+    <state x="1508" y="282" key="IDE.errors.dialog" timestamp="1601353065188">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1508" y="282" key="IDE.errors.dialog/0.0.2560.1080@0.0.2560.1080" timestamp="1601353065188" />
     <state x="512" y="97" key="MergeDialog" timestamp="1601137755612">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
@@ -228,10 +250,10 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2384" y="189" width="992" height="738" key="SettingsEditor/1920.0.1920.1080/0.28.1920.1052/3840.0.1920.1080@1920.0.1920.1080" timestamp="1600894973495" />
-    <state x="1207" y="276" key="Vcs.Push.Dialog.v2" timestamp="1601345745726">
+    <state x="1207" y="276" key="Vcs.Push.Dialog.v2" timestamp="1601353381310">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state x="1207" y="276" key="Vcs.Push.Dialog.v2/0.0.2560.1080@0.0.2560.1080" timestamp="1601345745726" />
+    <state x="1207" y="276" key="Vcs.Push.Dialog.v2/0.0.2560.1080@0.0.2560.1080" timestamp="1601353381310" />
     <state x="2494" y="215" width="764" height="687" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1600896171543">
 >>>>>>> origin/DotCombubble
       <screen x="1920" y="0" width="1920" height="1080" />
