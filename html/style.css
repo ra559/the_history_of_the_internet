@@ -1,0 +1,127 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Helvetica Neue Light", "HelveticaNeue-Light", "Helvetica Neue", Calibri, Helvetica, Arial, sans-serif;
+}
+
+.navbar
+{
+    position: fixed;
+    top: 0;
+    z-index: 99999;
+    padding: 25px 0;
+
+}
+
+.navbar ul.nav
+{
+    margin-right: 15%;
+}
+
+.navbar ul.nav li.active,
+.navbar ul.nav li:hover
+{
+    background:rgba(255,255,255,0.5);
+    color: #ffffff;
+
+}
+
+.navbar ul.nav li a
+{
+    color: black;
+    font-size: 1em;
+    font-weight:500;
+}
+.navbar ul.nav li.active a,
+.navbar ul.nav li:hover a
+{
+    color: black;
+}
+
+/*Slider*/
+#carouselExampleIndicators
+{
+    position: relative;
+     height: 100vh;
+    width: 100%;
+}
+
+#carouselExampleIndicators .carousel-inner
+{
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+
+#carouselExampleIndicators .carousel-inner:before
+{
+    position: absolute;
+    content: '';
+    background: rgba(0, 0, 0, 0.45);
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    z-index: 1;
+
+}
+#carouselExampleIndicators .carousel-inner .carousel-item {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    background-size: 100% 100%;
+    background: url("../html/img/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg") center;
+
+}
+#carouselExampleIndicators .carousel-inner .carousel-item:nth-child(2)
+{
+    background-size:  100% 100%;
+    background: url("../html/img/christopher-gower-vjMgqUkS8q8-unsplash.jpg") center;
+}
+#carouselExampleIndicators .carousel-inner .carousel-item:nth-child(3)
+{
+
+    background-size:  100% 100%;
+    background: url("../html/img/thomas-jensen-h3vT1Kp0FxA-unsplash.jpg") center;
+}
+
+#carouselExampleIndicators .carousel-inner .carousel-item:nth-child(4)
+{
+
+    width: 100%;
+    background-size:  100% 100%;
+    background: url("../html/img/luca-bravo-YoelVcKWmws-unsplash.jpg") center;
+}
+
+#carouselExampleIndicators .carousel-inner .carousel-item .info
+{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    height: auto;
+    width: 100%;
+    z-index: 1;
+    text-align: center;
+}
+#carouselExampleIndicators .carousel-inner .carousel-item h1
+{
+    height: auto;
+  color: #fff;
+    width: 100%;
+    z-index: 1;
+    text-align: center;
+    font-size: 5.5em;
+    font-weight: 600;
+}
+
+#carouselExampleIndicators .carousel-inner .carousel-item p
+{
+    height: auto;
+    color: #fff;
+    width: 100%;
+    z-index: 1;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+}
