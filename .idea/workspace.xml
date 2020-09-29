@@ -19,21 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+    <list default="true" id="735eed4e-7662-4339-81fd-8a840d144fbb" name="Default Changelist" comment="Feature:  Links&#10;Task: Updated Links">
     <list default="true" id="735eed4e-7662-4339-81fd-8a840d144fbb" name="Default Changelist" comment="">
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-=======
       <change beforePath="$PROJECT_DIR$/html/thoti.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/thoti.html" afterDir="false" />
->>>>>>> video1
-=======
       <change beforePath="$PROJECT_DIR$/notesInMarkdown/DotComBubble.md" beforeDir="false" afterPath="$PROJECT_DIR$/notesInMarkdown/DotComBubble.md" afterDir="false" />
->>>>>>> origin/DotCombubble
-=======
+
       <change afterPath="$PROJECT_DIR$/html/img/Logo.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/html/img/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/html/img/christopher-gower-vjMgqUkS8q8-unsplash.jpg" afterDir="false" />
@@ -44,20 +35,21 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notesInMarkdown/thePeople.md" beforeDir="false" afterPath="$PROJECT_DIR$/notesInMarkdown/thePeople.md" afterDir="false" />
->>>>>>> origin/FrontEndWork
+
     </list>
-=======
+
     <list default="true" id="735eed4e-7662-4339-81fd-8a840d144fbb" name="Default Changelist" comment="" />
->>>>>>> b30f8a0e9a78414e047e5aa8eaa11ba92a893ed2
-=======
+
     <list default="true" id="735eed4e-7662-4339-81fd-8a840d144fbb" name="Default Changelist" comment="" />
->>>>>>> origin/peopleNotes
-=======
+
+
     <list default="true" id="735eed4e-7662-4339-81fd-8a840d144fbb" name="Default Changelist" comment="">
+
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/style.css" afterDir="false" />
     </list>
->>>>>>> origin/FrontEndWork
+
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,6 +62,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1hvauVDfC0TzHgPJpDd1NS28iX5" />
   <component name="ProjectViewState">
@@ -85,13 +78,12 @@
     <property name="settings.editor.selected.configurable" value="liveEdit" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-<<<<<<< HEAD
+
   <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/the_history_of_the_internet/ignorefolder/bootstrap_cheatsheet/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="thoti.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/the_history_of_the_internet/html/thoti.html" useBuiltInWebServerPort="true">
-=======
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/html/img" />
@@ -103,17 +95,13 @@
   </component>
   <component name="RunManager">
     <configuration name="home.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/the_history_of_the_internet/html/home.html" useBuiltInWebServerPort="true">
->>>>>>> origin/DotCombubble
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-<<<<<<< HEAD
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.thoti.html" />
-=======
         <item itemvalue="JavaScript Debug.home.html" />
->>>>>>> origin/DotCombubble
       </list>
     </recent_temporary>
   </component>
@@ -128,12 +116,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600894243041</updated>
-<<<<<<< HEAD
+
       <workItem from="1600894244129" duration="2677000" />
       <workItem from="1601130113163" duration="1611000" />
       <workItem from="1601143353273" duration="14436000" />
       <workItem from="1601178703817" duration="7722000" />
-=======
+
       <workItem from="1600894244129" duration="2337000" />
       <workItem from="1600899476845" duration="1232000" />
       <workItem from="1601137673856" duration="52242000" />
@@ -151,7 +139,7 @@
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
       <updated>1601259124655</updated>
->>>>>>> origin/DotCombubble
+
     </task>
     <task id="LOCAL-00003" summary="Feature: Final Notes for Dot Com Bubble">
       <created>1601323289992</created>
@@ -202,13 +190,20 @@
       <option name="project" value="LOCAL" />
       <updated>1601354819506</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Feature:  Notes&#10;Task: Final Notes">
+      <created>1601355986229</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1601355986229</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-<<<<<<< HEAD
+
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -231,14 +226,15 @@
     </state>
     <state x="2663" y="312" width="426" height="492" key="FileChooserDialogImpl/1920.0.1920.1080/3840.0.1920.1080/0.28.1920.1052@1920.0.1920.1080" timestamp="1601188853145" />
     <state x="2384" y="189" width="992" height="738" key="SettingsEditor" timestamp="1601178515605">
-=======
+
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Feature: DotCom bubble Notes" />
     <MESSAGE value="Feature: included more notes" />
     <MESSAGE value="Feature: Final Notes for Dot Com Bubble" />
     <MESSAGE value="Feature:  New Branch &#10;Task: Include notes about the people video for THOTI" />
     <MESSAGE value="Feature:  Notes&#10;Task: Final Notes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature:  Notes&#10;Task: Final Notes" />
+    <MESSAGE value="Feature:  Links&#10;Task: Updated Links" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature:  Links&#10;Task: Updated Links" />
   </component>
   <component name="WindowStateProjectService">
     <state x="744" y="367" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601245911546">
@@ -249,10 +245,10 @@
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
     <state x="1658" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1080@0.0.2560.1080" timestamp="1601349884008" />
-    <state x="1443" y="29" key="CommitChangelistDialog2" timestamp="1601354819344">
+    <state x="1443" y="29" key="CommitChangelistDialog2" timestamp="1601358916885">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state x="1443" y="29" key="CommitChangelistDialog2/0.0.2560.1080@0.0.2560.1080" timestamp="1601354819344" />
+    <state x="1443" y="29" key="CommitChangelistDialog2/0.0.2560.1080@0.0.2560.1080" timestamp="1601358916885" />
     <state x="849" y="100" width="1610" height="880" key="DiffContextDialog" timestamp="1601355909447">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
@@ -269,12 +265,12 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2384" y="189" width="992" height="738" key="SettingsEditor/1920.0.1920.1080/0.28.1920.1052/3840.0.1920.1080@1920.0.1920.1080" timestamp="1600894973495" />
-    <state x="1207" y="276" key="Vcs.Push.Dialog.v2" timestamp="1601354820493">
+    <state x="1207" y="276" key="Vcs.Push.Dialog.v2" timestamp="1601356083858">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state x="1207" y="276" key="Vcs.Push.Dialog.v2/0.0.2560.1080@0.0.2560.1080" timestamp="1601354820493" />
+    <state x="1207" y="276" key="Vcs.Push.Dialog.v2/0.0.2560.1080@0.0.2560.1080" timestamp="1601356083858" />
     <state x="2494" y="215" width="764" height="687" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1600896171543">
->>>>>>> origin/DotCombubble
+
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2384" y="189" key="SettingsEditor/0.28.1920.1052/1920.0.1920.1080/0.28.1920.1052@1920.0.1920.1080" timestamp="1601178515605" />
@@ -284,24 +280,26 @@
     </state>
     <state x="574" y="237" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.28.1920.1052/1920.0.1920.1080/0.28.1920.1052@0.28.1920.1052" timestamp="1601164618951" />
     <state x="2494" y="215" width="764" height="687" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.0.1920.1080/0.28.1920.1052/3840.0.1920.1080@1920.0.1920.1080" timestamp="1600896171543" />
-<<<<<<< HEAD
-<<<<<<< HEAD
+
+    <state x="451" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601356071438">
+
     <state x="2543" y="252" key="run.anything.popup" timestamp="1601263306754">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2543" y="252" key="run.anything.popup/1920.0.1920.1080/3840.0.1920.1080/0.28.1920.1052@1920.0.1920.1080" timestamp="1601263306754" />
-=======
+
     <state x="2543" y="252" key="run.anything.popup" timestamp="1601181098206">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2543" y="252" key="run.anything.popup/0.28.1920.1052/1920.0.1920.1080/0.28.1920.1052@1920.0.1920.1080" timestamp="1601177948951" />
     <state x="2543" y="252" key="run.anything.popup/1920.0.1920.1080/3840.0.1920.1080/0.28.1920.1052@1920.0.1920.1080" timestamp="1601181098206" />
->>>>>>> video1
-=======
+
+
     <state x="451" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600899994128">
+
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state x="451" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1080@0.0.2560.1080" timestamp="1600899994128" />
+    <state x="451" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1080@0.0.2560.1080" timestamp="1601356071438" />
     <state x="435" y="161" width="993" height="901" key="dock-window-1" timestamp="1601264326798">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
@@ -314,14 +312,13 @@
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
     <state x="1565" y="178" key="git4idea.branch.GitSmartOperationDialog/0.0.2560.1080@0.0.2560.1080" timestamp="1601137744530" />
-<<<<<<< HEAD
->>>>>>> origin/DotCombubble
+
     <state x="2543" y="260" width="672" height="678" key="search.everywhere.popup" timestamp="1600895521127">
       <screen x="1920" y="0" width="1920" height="1080" />
-=======
+
     <state x="831" y="260" width="896" height="678" key="search.everywhere.popup" timestamp="1601352058902">
       <screen x="0" y="0" width="2560" height="1080" />
->>>>>>> origin/FrontEndWork
+
     </state>
     <state x="831" y="260" width="896" height="678" key="search.everywhere.popup/0.0.2560.1080@0.0.2560.1080" timestamp="1601352058902" />
     <state x="2543" y="260" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1080/0.28.1920.1052/3840.0.1920.1080@1920.0.1920.1080" timestamp="1600895521127" />
