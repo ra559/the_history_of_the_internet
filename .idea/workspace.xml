@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="735eed4e-7662-4339-81fd-8a840d144fbb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/html/img/Logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/img/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/img/christopher-gower-vjMgqUkS8q8-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/img/thomas-jensen-h3vT1Kp0FxA-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/img/tim-bennett-OwvRB-M3GwE-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notesInMarkdown/thePeople.md" beforeDir="false" afterPath="$PROJECT_DIR$/notesInMarkdown/thePeople.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +71,7 @@
       <updated>1600894243041</updated>
       <workItem from="1600894244129" duration="2337000" />
       <workItem from="1600899476845" duration="1232000" />
-      <workItem from="1601137673856" duration="45700000" />
+      <workItem from="1601137673856" duration="52242000" />
     </task>
     <task id="LOCAL-00001" summary="Feature: DotCom bubble Notes">
       <created>1601250782453</created>
@@ -100,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601326117238</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Feature:  Notes&#10;Task: Final Notes">
+      <created>1601345744210</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1601345744210</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,21 +126,22 @@
     <MESSAGE value="Feature: included more notes" />
     <MESSAGE value="Feature: Final Notes for Dot Com Bubble" />
     <MESSAGE value="Feature:  New Branch &#10;Task: Include notes about the people video for THOTI" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature:  New Branch &#10;Task: Include notes about the people video for THOTI" />
+    <MESSAGE value="Feature:  Notes&#10;Task: Final Notes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature:  Notes&#10;Task: Final Notes" />
   </component>
   <component name="WindowStateProjectService">
     <state x="744" y="367" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601245911546">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
     <state x="744" y="367" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1080@0.0.2560.1080" timestamp="1601245911546" />
-    <state x="1658" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601263381106">
+    <state x="1658" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601349884008">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state x="1658" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1080@0.0.2560.1080" timestamp="1601263381106" />
-    <state x="1443" y="29" key="CommitChangelistDialog2" timestamp="1601326117121">
+    <state x="1658" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1080@0.0.2560.1080" timestamp="1601349884008" />
+    <state x="1443" y="29" key="CommitChangelistDialog2" timestamp="1601345743992">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state x="1443" y="29" key="CommitChangelistDialog2/0.0.2560.1080@0.0.2560.1080" timestamp="1601326117121" />
+    <state x="1443" y="29" key="CommitChangelistDialog2/0.0.2560.1080@0.0.2560.1080" timestamp="1601345743991" />
     <state x="512" y="97" key="MergeDialog" timestamp="1601137755612">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
@@ -134,10 +150,10 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2384" y="189" width="992" height="738" key="SettingsEditor/1920.0.1920.1080/0.28.1920.1052/3840.0.1920.1080@1920.0.1920.1080" timestamp="1600894973495" />
-    <state x="1207" y="276" key="Vcs.Push.Dialog.v2" timestamp="1601326120650">
+    <state x="1207" y="276" key="Vcs.Push.Dialog.v2" timestamp="1601345745726">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state x="1207" y="276" key="Vcs.Push.Dialog.v2/0.0.2560.1080@0.0.2560.1080" timestamp="1601326120650" />
+    <state x="1207" y="276" key="Vcs.Push.Dialog.v2/0.0.2560.1080@0.0.2560.1080" timestamp="1601345745726" />
     <state x="2494" y="215" width="764" height="687" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1600896171543">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
@@ -158,9 +174,10 @@
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
     <state x="1565" y="178" key="git4idea.branch.GitSmartOperationDialog/0.0.2560.1080@0.0.2560.1080" timestamp="1601137744530" />
-    <state x="2543" y="260" width="672" height="678" key="search.everywhere.popup" timestamp="1600895521127">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state x="831" y="260" width="896" height="678" key="search.everywhere.popup" timestamp="1601352058902">
+      <screen x="0" y="0" width="2560" height="1080" />
     </state>
+    <state x="831" y="260" width="896" height="678" key="search.everywhere.popup/0.0.2560.1080@0.0.2560.1080" timestamp="1601352058902" />
     <state x="2543" y="260" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1080/0.28.1920.1052/3840.0.1920.1080@1920.0.1920.1080" timestamp="1600895521127" />
   </component>
 </project>
