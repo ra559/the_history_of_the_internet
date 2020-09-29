@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="735eed4e-7662-4339-81fd-8a840d144fbb" name="Default Changelist" comment="">
+    <list default="true" id="735eed4e-7662-4339-81fd-8a840d144fbb" name="Default Changelist" comment="Feature:  Links&#10;Task: Updated Links">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +18,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1hvauVDfC0TzHgPJpDd1NS28iX5" />
   <component name="ProjectViewState">
@@ -129,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601354819506</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Feature:  Notes&#10;Task: Final Notes">
+      <created>1601355986229</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1601355986229</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,7 +150,8 @@
     <MESSAGE value="Feature: Final Notes for Dot Com Bubble" />
     <MESSAGE value="Feature:  New Branch &#10;Task: Include notes about the people video for THOTI" />
     <MESSAGE value="Feature:  Notes&#10;Task: Final Notes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature:  Notes&#10;Task: Final Notes" />
+    <MESSAGE value="Feature:  Links&#10;Task: Updated Links" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature:  Links&#10;Task: Updated Links" />
   </component>
   <component name="WindowStateProjectService">
     <state x="744" y="367" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601245911546">
@@ -152,10 +162,10 @@
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
     <state x="1658" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1080@0.0.2560.1080" timestamp="1601349884008" />
-    <state x="1443" y="29" key="CommitChangelistDialog2" timestamp="1601354819344">
+    <state x="1443" y="29" key="CommitChangelistDialog2" timestamp="1601358916885">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state x="1443" y="29" key="CommitChangelistDialog2/0.0.2560.1080@0.0.2560.1080" timestamp="1601354819344" />
+    <state x="1443" y="29" key="CommitChangelistDialog2/0.0.2560.1080@0.0.2560.1080" timestamp="1601358916885" />
     <state x="849" y="100" width="1610" height="880" key="DiffContextDialog" timestamp="1601355909447">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
@@ -172,18 +182,18 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2384" y="189" width="992" height="738" key="SettingsEditor/1920.0.1920.1080/0.28.1920.1052/3840.0.1920.1080@1920.0.1920.1080" timestamp="1600894973495" />
-    <state x="1207" y="276" key="Vcs.Push.Dialog.v2" timestamp="1601354820493">
+    <state x="1207" y="276" key="Vcs.Push.Dialog.v2" timestamp="1601356083858">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state x="1207" y="276" key="Vcs.Push.Dialog.v2/0.0.2560.1080@0.0.2560.1080" timestamp="1601354820493" />
+    <state x="1207" y="276" key="Vcs.Push.Dialog.v2/0.0.2560.1080@0.0.2560.1080" timestamp="1601356083858" />
     <state x="2494" y="215" width="764" height="687" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1600896171543">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2494" y="215" width="764" height="687" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.0.1920.1080/0.28.1920.1052/3840.0.1920.1080@1920.0.1920.1080" timestamp="1600896171543" />
-    <state x="451" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600899994128">
+    <state x="451" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601356071438">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state x="451" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1080@0.0.2560.1080" timestamp="1600899994128" />
+    <state x="451" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1080@0.0.2560.1080" timestamp="1601356071438" />
     <state x="435" y="161" width="993" height="901" key="dock-window-1" timestamp="1601264326798">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
