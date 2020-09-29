@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="735eed4e-7662-4339-81fd-8a840d144fbb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/html/img/Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/img/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/img/christopher-gower-vjMgqUkS8q8-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/img/thomas-jensen-h3vT1Kp0FxA-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/img/tim-bennett-OwvRB-M3GwE-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notesInMarkdown/thePeople.md" beforeDir="false" afterPath="$PROJECT_DIR$/notesInMarkdown/thePeople.md" afterDir="false" />
-    </list>
+    <list default="true" id="735eed4e-7662-4339-81fd-8a840d144fbb" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,12 +29,12 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/html" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/html/img" />
       <recent name="$PROJECT_DIR$/notesInMarkdown" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/html" />
     </key>
   </component>
   <component name="RunManager">
