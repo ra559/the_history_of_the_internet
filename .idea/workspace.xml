@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <list default="true" id="735eed4e-7662-4339-81fd-8a840d144fbb" name="Default Changelist" comment="">
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -51,6 +52,12 @@
 =======
     <list default="true" id="735eed4e-7662-4339-81fd-8a840d144fbb" name="Default Changelist" comment="" />
 >>>>>>> origin/peopleNotes
+=======
+    <list default="true" id="735eed4e-7662-4339-81fd-8a840d144fbb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/home.html" afterDir="false" />
+    </list>
+>>>>>>> origin/FrontEndWork
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,6 +77,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/html" />
@@ -85,12 +93,12 @@
     <configuration name="thoti.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/the_history_of_the_internet/html/thoti.html" useBuiltInWebServerPort="true">
 =======
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/html" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/html/img" />
       <recent name="$PROJECT_DIR$/notesInMarkdown" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/html" />
     </key>
   </component>
   <component name="RunManager">
@@ -187,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601353199695</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Feature:  Notes&#10;Task: Final Notes">
+      <created>1601354819506</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1601354819506</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,10 +249,14 @@
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
     <state x="1658" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1080@0.0.2560.1080" timestamp="1601349884008" />
-    <state x="1443" y="29" key="CommitChangelistDialog2" timestamp="1601353199536">
+    <state x="1443" y="29" key="CommitChangelistDialog2" timestamp="1601354819344">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state x="1443" y="29" key="CommitChangelistDialog2/0.0.2560.1080@0.0.2560.1080" timestamp="1601353199536" />
+    <state x="1443" y="29" key="CommitChangelistDialog2/0.0.2560.1080@0.0.2560.1080" timestamp="1601354819344" />
+    <state x="849" y="100" width="1610" height="880" key="DiffContextDialog" timestamp="1601355909447">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="849" y="100" width="1610" height="880" key="DiffContextDialog/0.0.2560.1080@0.0.2560.1080" timestamp="1601355909447" />
     <state x="1508" y="282" key="IDE.errors.dialog" timestamp="1601353065188">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
@@ -250,10 +269,10 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2384" y="189" width="992" height="738" key="SettingsEditor/1920.0.1920.1080/0.28.1920.1052/3840.0.1920.1080@1920.0.1920.1080" timestamp="1600894973495" />
-    <state x="1207" y="276" key="Vcs.Push.Dialog.v2" timestamp="1601353381310">
+    <state x="1207" y="276" key="Vcs.Push.Dialog.v2" timestamp="1601354820493">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state x="1207" y="276" key="Vcs.Push.Dialog.v2/0.0.2560.1080@0.0.2560.1080" timestamp="1601353381310" />
+    <state x="1207" y="276" key="Vcs.Push.Dialog.v2/0.0.2560.1080@0.0.2560.1080" timestamp="1601354820493" />
     <state x="2494" y="215" width="764" height="687" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1600896171543">
 >>>>>>> origin/DotCombubble
       <screen x="1920" y="0" width="1920" height="1080" />
